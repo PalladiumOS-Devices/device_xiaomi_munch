@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_munch.mk
+    $(LOCAL_DIR)/palladium_munch.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_munch-user \
-    arrow_munch-userdebug \
-    arrow_munch-eng
+    palladium_munch-user \
+    palladium_munch-userdebug \
+    palladium_munch-eng
